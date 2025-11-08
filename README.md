@@ -280,14 +280,8 @@ mywebsite-static-hosting/
 │
 ├── index.html
 ├── styles.css
-├── images/
-│   ├── logo.png
-│   ├── hero.jpg
-│   └── icon.svg
-├── js/
-│   └── script.js
-└── fonts/
-    └── custom-font.woff2
+
+
 ```
 
 Upload folders:
